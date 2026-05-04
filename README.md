@@ -32,6 +32,7 @@
 
 **Ответ:**
 
+<img width="1360" height="736" alt="Screenshot from 2026-05-04 20-10-31" src="https://github.com/user-attachments/assets/79d9675f-5345-4a5a-aadb-ae3d68548dd8" />
 
 ---
 
@@ -43,3 +44,4 @@
 
 **Ответ:**
 
+<img width="1360" height="736" alt="Screenshot from 2026-05-04 20-17-28" src="https://github.com/user-attachments/assets/5e84f606-c1db-4af1-93bb-caa25731d361" />
